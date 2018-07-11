@@ -1,0 +1,7 @@
+Problem Solving:
+-----------------------------
+Problems on TREE
+-----------------------------
+1. Find lowest common ancestor in Binary Tree 
+2. Traverse a zigzag / spiral tree
+3. Find a given tree is Binary Search Tree (BST)
